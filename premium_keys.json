@@ -1,5 +1,4 @@
 [
-  "PREM-NOVA-V001",
-  "PREM-NOVA-V002",
-  "PREM-ADMIN-BOSS"
+  { "key": "PREM-NOVA-V001", "active": true },
+  { "key": "PREM-NOVA-V002", "active": true }
 ]
