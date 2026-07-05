@@ -1,0 +1,13 @@
+    {
+      "app_status": "active",
+      "latest_version": "1.0.0",
+      "premium_keys": [
+        "NOVA-PREM-V001",
+        "NOVA-PREM-V002"
+      ],
+      "trial_keys": [
+        "NOVA-TRIAL-888",
+        "NOVA-TRIAL-999"
+      ]
+    }
+    
