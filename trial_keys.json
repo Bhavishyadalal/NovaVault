@@ -1,5 +1,4 @@
 [
-  "TRIAL-NOVA-888",
-  "TRIAL-NOVA-999",
-  "TRIAL-KEY-123"
+  { "key": "NOVA-TRIAL-888", "active": true },
+  { "key": "NOVA-TRIAL-999", "active": true }
 ]
