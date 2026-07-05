@@ -1,5 +1,4 @@
-    [
-      "NOVA-MASTER-BOSS-2026",
-      "Terminatorjkrrr2608"
-    ]
-    
+[
+  { "key": "NOVA-MASTER-BOSS", "active": true },
+  { "key": "Terminatorjkrrr2608", "active": true }
+]
