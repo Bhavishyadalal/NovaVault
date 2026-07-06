@@ -1,8 +1,8 @@
 [
   { 
-    "key": "NOVA-TRIAL-40H", 
+    "key": "NOVA-TRIAL-30H", 
     "active": true,
-    "durationHours": 40
+    "durationHours": 30
   },
   { 
     "key": "NOVA-TRIAL-48H", 
