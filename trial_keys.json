@@ -5,6 +5,11 @@
     "durationHours": 30
   },
   { 
+    "key": "NOVA-TRIAL-72H", 
+    "active": true,
+    "durationHours": 72 
+  },
+  { 
     "key": "NOVA-TRIAL-48H", 
     "active": true,
     "durationHours": 48 
